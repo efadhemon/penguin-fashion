@@ -1,0 +1,169 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+h1{
+    font-family: 'Bebas Neue', cursive;
+}
+
+header{
+    background: #FFFBF0;
+}
+
+.my-dropdown{
+    overflow: hidden;
+    border: none;
+    background: transparent;
+}
+
+#advertise{
+    background: #FFFBF0;
+}
+
+.nav-spacing{
+    padding-top: 10px;
+}
+
+.logo-penguin img{
+    width: 300px;
+}
+
+.nav-item a{
+    font-size: 18px;
+    font-weight: 500;
+    color: black !important;
+    margin: 0 30px;
+}
+
+.nav-item a:last-child{
+    margin-right: 0;
+}
+
+.winter-penguin{
+    font-size: 90px;
+    font-family: 'Bebas Neue', cursive;
+    color: #FABE4C;
+}
+
+.winter-penguin span{
+    color: #130a35;
+}
+
+.buy-now-btn{
+    background: #A4BC46;
+    color: white;
+    font-size: 18px;
+    padding: 15px 30px;
+    font-weight: 500;
+    border-radius: 10px;
+}
+
+.buy-now-btn img{
+    width: 28px;
+    margin-right: 5px;
+}
+
+.buy-now-btn:hover{
+    background: #adcc32;
+    color: white;
+}
+
+#woman-jaket{
+    margin-top: 80px;
+}
+
+#man-jaket{
+    margin-top: 80px;
+}
+
+.seller-card{
+    border: none;
+    box-sizing: border-box;
+    padding: 20px;
+    border-radius: 20px;
+
+}
+
+.price-tag{
+    color: darkorange;
+    font-weight: 700;
+    font-size: 40px;
+    display: inline-block;
+    margin-right: 65px;
+}
+
+.seller-box img{
+    box-sizing: border-box;
+    height: 400px;
+    background-color: #80808026;
+    overflow: hidden;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+#winter-shoes{
+    margin-top: 80px;
+}
+
+#about-us{
+    margin-top: 80px;
+}
+
+.about-card{
+    border: none;
+    border-radius: 20px;
+}
+
+.icon-size{
+    width: 27%;
+}
+
+.icon-size img{
+    margin-left: 20px;
+    margin-top: 18px;
+    width: 80px;
+}
+
+#contact-us{
+    margin-top: 80px;
+    height: 300px;
+    background: #FCEAE8;
+    border-radius: 20px;
+}
+
+.submit-btn {
+    background: linear-gradient(to bottom, #FF589B 0%, #fa0563 100%);
+    color: white;
+    font-size: 18px;
+    padding: 10px 30px;
+    font-weight: 500;
+    border-radius: 10px;
+    transition: 0.3s !important;
+}
+
+.submit-btn:hover{
+    background: linear-gradient(to bottom, #fd71a9 0%, #FF136F 100%);
+    color: white;
+}
+
+footer{
+    margin-top: 80px;
+}
+
+.footer_item {
+    text-align: center;
+}
+
+.footer_item h4 {
+    font-size: 22px;
+    text-transform: uppercase;
+    color: grey;
+    line-height: 0;
+}
+
+.footer_item h2 {
+    font-size: 32px;
+}
+
+.footer_item img {
+    width: 50px;
+    margin: 20px;
+}
